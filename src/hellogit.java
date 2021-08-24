@@ -4,6 +4,6 @@
 public class hellogit {
     public static void main(String[] args) {
         System.out.println("hlalal all");
-        System.out.println("hello wtio reset, errno 10054");
+        System.out.println("hello wtieso reset, errno 10054");
     }
 }
