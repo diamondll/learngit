@@ -4,6 +4,6 @@
 public class hellogit {
     public static void main(String[] args) {
         System.out.println("hlalal all");
-        System.out.println("hello worl");
+        System.out.println("hello worlConnection was reset, errno 10054");
     }
 }
