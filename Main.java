@@ -6,6 +6,6 @@ package alifj;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("sdafddsaas");
+        System.out.println("sdkljafddsadsas");
     }
 }
